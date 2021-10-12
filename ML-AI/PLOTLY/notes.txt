@@ -1,0 +1,3 @@
+>> Each figure is represented as an instance of trace(type = )
+
+>> Each trace has a name arguement which corresponds to the legend used.
